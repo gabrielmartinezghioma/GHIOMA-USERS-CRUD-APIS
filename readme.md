@@ -1,8 +1,8 @@
 ## Description  
 
-  This project is an example of a full-stack application built entirely by me. The front-end has been developed with React JS, using Redux and React Hook Form. In addition, APIs that I created using Postgres, Sequelize, and Node.js have been consumed. The purpose of this application is to allow the creation, editing, and updating of user information, as well as the ability to delete them.
+This is an API that allows you to read the list of users, create new ones, update their information, as well as delete them. This API is built with PostgreSQL, integrated with Sequelize ORM, and the backend is developed with Node.js. Below is the link to the API documentation, with its respective endpoints.
 
-  Este proyecto es una muestra de una aplicación de pila completa (full stack) construida completamente por mí. El front-end se ha desarrollado con React JS, utilizando Redux y React Hook Form. Además, se han consumido APIs que he creado utilizando Postgres, Sequelize y Node.js. La finalidad de esta aplicación es permitir la creación, edición y actualización de información de usuarios, así como también la posibilidad de eliminarlos.
+Esta es una API que permite leer la lista de usuarios, crear nuevos, actualizar su información, así como también eliminarlos. La API ha sido construida con PostgreSQL, integrada con ORM Sequelize y el backend ha sido desarrollado con Node.js. A continuación, se encuentra el enlace con la documentación de la API, con sus respectivos endpoints.
 
 
 ## Author 
@@ -12,19 +12,15 @@
 [Linkedin](https://www.linkedin.com/in/gabrielmartinezghioma/)
 [Portfolio](https://gabrielmartinezghioma.netlify.app/)
 
-## Link to the API repository
+## Links
 
-[GITHUB](https://github.com/gabrielmartinezghioma/GHIOMA-USERS-CRUD-APIS)
+  [API](https://users-crud-2h1r.onrender.com/)
 
-## See live example
+  [DOCUMENTATION](https://documenter.getpostman.com/view/26001410/2s93CPrXxa)
 
-[https://ghiomausers.netlify.app/](https://ghiomausers.netlify.app/)
-![Image text](https://raw.githubusercontent.com/gabrielmartinezghioma/CRUD-GHIOMA/main/public/screen.png) 
+  [See live example](https://ghiomausers.netlify.app/)
 
-## Installation 
-  This project requires the installation of node modules. To do this, run npm install or simply npm i  
-  
-  Este proyecto necesita instalación de node modules. Para ello haga npm install o simplemte npm i  
+  [GITHUN FROT-END](https://github.com/gabrielmartinezghioma/GHIOMA-USERS-CRUD-APIS)
 
 ## Hiring 
 
