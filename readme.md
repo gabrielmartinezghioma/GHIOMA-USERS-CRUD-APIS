@@ -20,7 +20,7 @@ Esta es una API que permite leer la lista de usuarios, crear nuevos, actualizar 
 
   [See live example](https://ghiomausers.netlify.app/)
 
-  [GITHUN FROT-END](https://github.com/gabrielmartinezghioma/GHIOMA-USERS-CRUD-APIS)
+  [GITHUB FROT-END](https://github.com/gabrielmartinezghioma/GHIOMA-USERS-CRUD-APIS)
 
 ## Hiring 
 
